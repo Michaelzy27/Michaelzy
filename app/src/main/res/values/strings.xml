@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Michaelzy</string>
+    <string name="action_settings">Settings</string>
+    <string name="full_name">Full Name:</string>
+    <string name="name_id">Umeh Nnaemeka Michael</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="slk_name_id">Michaelzy</string>
+    <string name="email">Email:</string>
+    <string name="email_id">umehmichael27@gmail.com</string>
+    <string name="tracks">Tracks:</string>
+    <string name="track_id">Mobile (Java, Kotlin)</string>
+    <string name="michaelzy">Michaelzy</string>
+</resources>
